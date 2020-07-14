@@ -5,7 +5,7 @@ I'm Computer Science Student with a good handshake in programming 🤓 , special
 Some of my key skills include - Native Android,Java,PHP,HTML,CSS.
  
 * 😍 My.love(Programming)
-* 😎 Checkout some of my cool projects 👇 and [here]()
+* 😎 Checkout some of my cool projects 👇 
 * ⚡ Fun fact: 🍜 Need some Food suggestion; Ping me 😉. 
 *  Also..Suggest me a some Binge Worthy 📺 Series.
 * 💬 Ask me about anything (either for a suggestion or a help). I am always ready to help at my best 😁.
