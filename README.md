@@ -11,8 +11,6 @@ Some of my key skills include - Native Android,Java,PHP,HTML,CSS.
 * 💬 Ask me about anything (either for a suggestion or a help). I am always ready to help at my best 😁.
 * 📫 How to reach me ? ->  (OR)
 
-[![Profile](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)]()
-[![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)]()
-[![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Profile](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asfly-902.github.io/aboutme.github.io/)
+[![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asfly902)
+[![Instagram](https://img.shields.io/badge/Instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asfly902/)
