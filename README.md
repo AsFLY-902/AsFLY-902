@@ -9,7 +9,7 @@ Some of my key skills include - Native Android,Java,PHP,HTML,CSS.
 * ⚡ Fun fact: 🍜 Need some Food suggestion; Ping me 😉. 
 *  Also..Suggest me a some Binge Worthy 📺 Series.
 * 💬 Ask me about anything (either for a suggestion or a help). I am always ready to help at my best 😁.
-* 📫 How to reach me ? ->  (OR)
+* 📫 How to reach me ?
 
 [![Profile](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asfly-902.github.io/aboutme.github.io/)
 [![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asfly902)
