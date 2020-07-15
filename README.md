@@ -1,6 +1,6 @@
 ### Hi 👋, I am Ashok Patel 👨‍💻. An Engineer 👨‍🎓 in the making.
 
-I'm Computer Science Student with a good handshake in programming 🤓 , specializing in developing high quality Mobile 📱 and Web 🕸 Applications. I love coding and aspires to build things for good 🚀. I love developing awesome and efficient applications / tools 🛠,apart from that I love to explore various APIs to get fruitful outputs.
+I'm Computer Science Student with a good handshake in programming 🤓 , specializing in developing high quality Mobile 📱 and Web 🕸 Applications. I love coding and aspires to build things for good 🚀. I love developing awesome and efficient applications / tools 🛠, apart from that I love to explore various APIs to get fruitful outputs.
 
 Some of my key skills include - Native Android,Java,PHP,HTML,CSS.
  
