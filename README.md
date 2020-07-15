@@ -6,7 +6,7 @@ Some of my key skills include - Native Android,Java,PHP,HTML,CSS.
  
 * 😍 My.love(Programming)
 * 😎 Checkout some of my cool projects 👇 
-* ⚡ Fun fact: 🍜 Need some Food suggestion; Ping me 😉. 
+* ⚡ Fun fact: Need some Licence/Activation key; Ping me 😉. 
 *  Also..Suggest me a some Binge Worthy 📺 Series.
 * 💬 Ask me about anything (either for a suggestion or a help). I am always ready to help at my best 😁.
 * 📫 How to reach me ?
