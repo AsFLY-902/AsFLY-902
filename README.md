@@ -16,4 +16,4 @@ Some of my key skills include - Native Android, Java, PHP, HTML, CSS, C, C++.
 [![Instagram](https://img.shields.io/badge/Instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asfly902/)
 
 
-[![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=AsFLY-902)](https://github.com/AsFLY-902/github-readme-stats)
+[![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=AsFLY-902&count_private=true)](https://github.com/AsFLY-902/github-readme-stats)
